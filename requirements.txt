@@ -1,0 +1,4 @@
+cloudscraper
+PyYAML
+requests
+websocket-client==0.59.0

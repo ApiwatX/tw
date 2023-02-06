@@ -1,0 +1,6 @@
+# phone
+phone: "0644718725"
+# webhook discord
+log-webhook: "https://discord.com/api/webhooks/........."
+# max invaild gift before blacklist
+max-invaild: 4
